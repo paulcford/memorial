@@ -8,7 +8,6 @@ window.onload = function(){
 	if (slideshows) {
 		createFlickity();
 	}
-	
 };
 
 function createFlickity(){
