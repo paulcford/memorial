@@ -44,3 +44,9 @@ a:hover {
 .about__body {
 	padding: 24px 64px;
 }
+
+.spotify {
+	margin: 24px 5%;
+	height: auto;
+	width: 90%;
+}
