@@ -1,0 +1,33 @@
+body {
+	font-family: 'Gothic A1', sans-serif;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+.nav {
+	padding: 24px 8px;
+}
+
+a {
+	color: gray;
+	font-size: 24px;
+	margin-right: 16px;
+	text-decoration: none;
+	transition: opacity .4s ease-in-out;
+}
+
+a:hover {
+	opacity: .5;
+}
+
+.slideshow {
+	height: 400px;
+	max-height: 90vh;
+	width: 100%;
+}
+
+.slide {
+	height: 100%;
+}
