@@ -23,6 +23,7 @@ a:hover {
 }
 
 .slideshow {
+	display: none;
 	height: 400px;
 	max-height: 90vh;
 	width: 100%;
