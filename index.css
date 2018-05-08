@@ -12,10 +12,9 @@ h1 {
 
 a {
 	color: gray;
-	font-size: 24px;
+	font-size: 24px; 
 	margin-right: 16px;
 	text-decoration: none;
-	text-transform: uppercase;
 	transition: opacity .4s ease-in-out;
 }
 

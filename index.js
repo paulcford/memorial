@@ -2,9 +2,12 @@
 var num = 12;
 
 var load = 0;
-
+ 
 window.onload = function(){
-	createFlickity();
+	var slideshows = document.querySelector('.image__wrapper');
+	if (slideshows) {
+		createFlickity();
+	}
 	
 };
 
