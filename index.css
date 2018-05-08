@@ -15,7 +15,15 @@ a {
 	font-size: 24px;
 	margin-right: 16px;
 	text-decoration: none;
+	text-transform: uppercase;
 	transition: opacity .4s ease-in-out;
+}
+
+.loading {
+	font-size: 24px;
+	margin: 24px 0;
+	text-align: center;
+	width: 100%;
 }
 
 a:hover {
@@ -25,7 +33,6 @@ a:hover {
 .slideshow {
 	display: none;
 	height: 400px;
-	max-height: 90vh;
 	width: 100%;
 }
 
