@@ -24,7 +24,7 @@ function createFlickity(){
 			wrapAround: true,
 			cellAlign: "center",
 			fullscreen: true,
-			autoPlay: 3500,
+			//autoPlay: 3500,
 			pageDots: false,
 			lazyLoad: 2,
 			imagesLoaded: true,
